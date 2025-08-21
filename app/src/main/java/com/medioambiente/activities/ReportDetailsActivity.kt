@@ -1,7 +1,9 @@
 package com.medioambiente.activities
 
 import android.content.Context
+import android.graphics.BitmapFactory
 import android.os.Bundle
+import android.util.Base64
 import android.util.Log
 import android.view.View
 import android.widget.Toast
@@ -107,13 +109,26 @@ class ReportDetailsActivity : AppCompatActivity() {
         }
 
         if (!reporte.foto.isNullOrEmpty()) {
+            decodeBase64AndLoadImage(reporte.foto)
+        } else {
+            binding.reportImageView.setImageResource(R.drawable.ic_placeholder_image)
+        }
+    }
+
+    private fun decodeBase64AndLoadImage(base64String: String) {
+        try {
+            val decodedBytes = Base64.decode(base64String, Base64.DEFAULT)
+            val bitmap = BitmapFactory.decodeByteArray(decodedBytes, 0, decodedBytes.size)
+
             Glide.with(this)
-                .load(reporte.foto)
+                .load(bitmap)
                 .placeholder(R.drawable.ic_placeholder_image)
                 .error(R.drawable.ic_error_image)
                 .into(binding.reportImageView)
-        } else {
-            binding.reportImageView.setImageResource(R.drawable.ic_placeholder_image)
+
+        } catch (e: IllegalArgumentException) {
+            Log.e("ReportDetailsActivity", "Error al decodificar Base64: ${e.message}")
+            binding.reportImageView.setImageResource(R.drawable.ic_error_image)
         }
     }
 }
