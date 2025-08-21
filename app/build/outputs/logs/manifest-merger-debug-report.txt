@@ -1,0 +1,579 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:2:1-126:12
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:2:1-126:12
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\2a1d83b06e736b2a43324b42c2527bbf\transformed\viewbinding-8.11.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\822a783d11c8cbcee2df88551de674bc\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5c2c7d2617b5827e132f5d69e8cd6c20\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a07fca827fd765442aa94d11c28e9f53\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a16244a4768df7ab5ee2e21f01e96ae5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\93d2ded4c78e75bf629fa1785200c29f\transformed\glide-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\efca4028100be3832165179917e368f5\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1aa15a1994fc056ca64dba3728a398e9\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c36f4f28816aecd8d672e11c11d50d2b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c2a02dc9af3a9981affd99fb14a7d2e4\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0b60d45eeee54cf2805b4e9939dadf8a\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79f03d21f16fce2bd22592e272cbbcf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5844d11df46468e7300de7a8696ed62c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5897b0332240bd756054b676219dac3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\316f5942bc0103691b31f226335d0a23\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1c06e42a029e3c844b83a3ea3f9ccd83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3aaca58977dbee9b6e2b0de9c24c1c63\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f64826b19cfd91b6319160e75cb5f39e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5de2e1de523e11995a2dbb71d8ba2d02\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\464f71869d55d43013023c7543a29335\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0757d5235b9bdb29f7a3b5bd99bf0cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6faae336409a63ac6162f113215f2534\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\53db86b20e40a6807762992f0e7cfbcb\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\51d6aecef3119ab5fb68ac3ac5fd6dba\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1082dcad265d3cfec9da5119050e74b7\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\d2f95a08e5ad0905ef1c1a3212395f03\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79c8e81a75e8fd20422ba1f0186f9134\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6c3193fb92605d36984364eced2b9811\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f8a4927210e50557a91952f166b452d5\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e467498d0a382d19a0052fab64e27619\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4d1a60d2ba1e0de508203164584ef306\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\75dcb1ffc2335542b8a8cd649f5a1a51\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\42a0cb39b23171ca7b2b2b4166185851\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f6cb087b66581dee817402acc6f089b3\transformed\gifdecoder-4.16.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\62502f1fa020802105bfe99ea97fa36a\transformed\exifinterface-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6f8f0af7e2e8940337b06c0979d1a127\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\cd3af15a4ccc4481e52cf8d29e5cb014\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\45fc1d3e1a21e3790f036e40b75566b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8526dae5008ba88fc0054a66aaf7fa57\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ad950f67c04779576c8c558b6755dccb\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\01e40937aa1b4e86303f695ab4815aca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4dfa2eae0f9397457db95f796c7b4700\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:7:5-67
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:8:5-79
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:7:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:8:5-108
+	android:maxSdkVersion
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:8:79-105
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:12:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:13:5-84
+	android:required
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:13:58-81
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.location.gps
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:14:5-66
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:17:5-19:36
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:17:5-19:36
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:14:19-63
+application
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:16:5-124:19
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:16:5-124:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\822a783d11c8cbcee2df88551de674bc\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\822a783d11c8cbcee2df88551de674bc\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1aa15a1994fc056ca64dba3728a398e9\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1aa15a1994fc056ca64dba3728a398e9\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c36f4f28816aecd8d672e11c11d50d2b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c36f4f28816aecd8d672e11c11d50d2b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\45fc1d3e1a21e3790f036e40b75566b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\45fc1d3e1a21e3790f036e40b75566b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:21:9-47
+	android:icon
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:19:9-42
+	android:allowBackup
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:23:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:17:9-49
+activity#com.medioambiente.activities.MainActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:28:13-36
+	android:theme
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:27:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.medioambiente.activities.LoginActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:37:13-53
+activity#com.medioambiente.activities.AreasProtegidasActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:41:13-63
+activity#com.medioambiente.activities.AreaDetailActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:44:9-46:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:45:13-58
+activity#com.medioambiente.activities.ForgotPasswordActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:49:13-62
+activity#com.medioambiente.activities.ServicesActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:52:9-54:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:53:13-56
+activity#com.medioambiente.activities.NewsActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:57:13-52
+activity#com.medioambiente.activities.NewsDetailsActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:60:9-62:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:61:13-59
+activity#com.medioambiente.activities.VideosActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:64:9-66:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:65:13-54
+activity#com.medioambiente.activities.MedidasActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:68:9-70:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:69:13-55
+activity#com.medioambiente.activities.EquipoActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:72:9-74:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:73:13-54
+activity#com.medioambiente.activities.MiembroDetailActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:76:9-78:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:77:13-61
+activity#com.medioambiente.activities.MapaActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:80:9-82:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:82:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:81:13-52
+activity#com.medioambiente.activities.AcercaActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:84:9-86:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:85:13-54
+activity#com.medioambiente.activities.VoluntarioActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:88:9-90:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:90:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:89:13-58
+activity#com.medioambiente.activities.RegisterActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:92:9-94:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:93:13-56
+activity#com.medioambiente.activities.NormativasActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:96:9-98:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:97:13-58
+activity#com.medioambiente.activities.ReportActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:100:9-102:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:102:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:101:13-54
+activity#com.medioambiente.activities.MisReportesActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:104:9-106:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:106:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:105:13-59
+activity#com.medioambiente.activities.MapaReportesActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:108:9-110:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:110:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:109:13-60
+activity#com.medioambiente.activities.ReportDetailsActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:112:9-114:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:114:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:113:13-61
+activity#com.medioambiente.activities.ChangePasswordActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:116:9-118:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:118:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:117:13-62
+activity#com.medioambiente.activities.AboutUsActivity
+ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:120:9-122:40
+	android:exported
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml:121:13-55
+uses-sdk
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\2a1d83b06e736b2a43324b42c2527bbf\transformed\viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\2a1d83b06e736b2a43324b42c2527bbf\transformed\viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\822a783d11c8cbcee2df88551de674bc\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\822a783d11c8cbcee2df88551de674bc\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\10d89d651ac8633a1c5bcc2dcaf5b91c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5c2c7d2617b5827e132f5d69e8cd6c20\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5c2c7d2617b5827e132f5d69e8cd6c20\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a07fca827fd765442aa94d11c28e9f53\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a07fca827fd765442aa94d11c28e9f53\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a16244a4768df7ab5ee2e21f01e96ae5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a16244a4768df7ab5ee2e21f01e96ae5\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\93d2ded4c78e75bf629fa1785200c29f\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\93d2ded4c78e75bf629fa1785200c29f\transformed\glide-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\efca4028100be3832165179917e368f5\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\efca4028100be3832165179917e368f5\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1aa15a1994fc056ca64dba3728a398e9\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1aa15a1994fc056ca64dba3728a398e9\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c36f4f28816aecd8d672e11c11d50d2b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c36f4f28816aecd8d672e11c11d50d2b\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c2a02dc9af3a9981affd99fb14a7d2e4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\c2a02dc9af3a9981affd99fb14a7d2e4\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0b60d45eeee54cf2805b4e9939dadf8a\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0b60d45eeee54cf2805b4e9939dadf8a\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79f03d21f16fce2bd22592e272cbbcf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79f03d21f16fce2bd22592e272cbbcf8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5844d11df46468e7300de7a8696ed62c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5844d11df46468e7300de7a8696ed62c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5897b0332240bd756054b676219dac3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5897b0332240bd756054b676219dac3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\316f5942bc0103691b31f226335d0a23\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\316f5942bc0103691b31f226335d0a23\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1c06e42a029e3c844b83a3ea3f9ccd83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1c06e42a029e3c844b83a3ea3f9ccd83\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3aaca58977dbee9b6e2b0de9c24c1c63\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3aaca58977dbee9b6e2b0de9c24c1c63\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f64826b19cfd91b6319160e75cb5f39e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f64826b19cfd91b6319160e75cb5f39e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5de2e1de523e11995a2dbb71d8ba2d02\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\5de2e1de523e11995a2dbb71d8ba2d02\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\464f71869d55d43013023c7543a29335\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\464f71869d55d43013023c7543a29335\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0757d5235b9bdb29f7a3b5bd99bf0cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\0757d5235b9bdb29f7a3b5bd99bf0cc5\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6faae336409a63ac6162f113215f2534\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6faae336409a63ac6162f113215f2534\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\53db86b20e40a6807762992f0e7cfbcb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\53db86b20e40a6807762992f0e7cfbcb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.pierfrancescosoffritti.androidyoutubeplayer:core:12.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e14e5bca62b5a0799fae78fd9fa36d8e\transformed\core-12.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\51d6aecef3119ab5fb68ac3ac5fd6dba\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\51d6aecef3119ab5fb68ac3ac5fd6dba\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1082dcad265d3cfec9da5119050e74b7\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\1082dcad265d3cfec9da5119050e74b7\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\d2f95a08e5ad0905ef1c1a3212395f03\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\d2f95a08e5ad0905ef1c1a3212395f03\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79c8e81a75e8fd20422ba1f0186f9134\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\79c8e81a75e8fd20422ba1f0186f9134\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6c3193fb92605d36984364eced2b9811\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6c3193fb92605d36984364eced2b9811\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f8a4927210e50557a91952f166b452d5\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f8a4927210e50557a91952f166b452d5\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e467498d0a382d19a0052fab64e27619\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\e467498d0a382d19a0052fab64e27619\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4d1a60d2ba1e0de508203164584ef306\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4d1a60d2ba1e0de508203164584ef306\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\75dcb1ffc2335542b8a8cd649f5a1a51\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\75dcb1ffc2335542b8a8cd649f5a1a51\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\42a0cb39b23171ca7b2b2b4166185851\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\42a0cb39b23171ca7b2b2b4166185851\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f6cb087b66581dee817402acc6f089b3\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f6cb087b66581dee817402acc6f089b3\transformed\gifdecoder-4.16.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\62502f1fa020802105bfe99ea97fa36a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\62502f1fa020802105bfe99ea97fa36a\transformed\exifinterface-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6f8f0af7e2e8940337b06c0979d1a127\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\6f8f0af7e2e8940337b06c0979d1a127\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\cd3af15a4ccc4481e52cf8d29e5cb014\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\cd3af15a4ccc4481e52cf8d29e5cb014\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\45fc1d3e1a21e3790f036e40b75566b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\45fc1d3e1a21e3790f036e40b75566b4\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8526dae5008ba88fc0054a66aaf7fa57\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8526dae5008ba88fc0054a66aaf7fa57\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ad950f67c04779576c8c558b6755dccb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ad950f67c04779576c8c558b6755dccb\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\01e40937aa1b4e86303f695ab4815aca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\01e40937aa1b4e86303f695ab4815aca\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4dfa2eae0f9397457db95f796c7b4700\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4dfa2eae0f9397457db95f796c7b4700\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\77c3d2cbb377ae4b0ae38bdc2026cd90\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\71bda9c189f22d690905640668ebb4ca\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\8ede65ab700d6096fcee21ef7d66d7b2\transformed\play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\f372526c44b9e63868b8111409df2371\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\3e061302e19983817f79e6c8f9b4515d\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.medioambiente.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.medioambiente.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a5ebd00e73d32fcf6ac74b83cbb9b7f6\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ff41f44e5f45cd959234405c1be15a39\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\a956c8a95c513234fe6682427167e4cd\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:9:5-12:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:11:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:12:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:10:9-34
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:15:9-57
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:21:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:23:5-25:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:25:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:6.1.18] C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\ec8c7fc802e912828c696be6b1acd8b9\transformed\osmdroid-android-6.1.18\AndroidManifest.xml:24:9-45

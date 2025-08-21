@@ -1,0 +1,3 @@
+com.medioambiente.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

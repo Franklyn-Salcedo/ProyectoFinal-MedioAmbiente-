@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_services.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_news.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_ic_phone_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\ic_phone_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_ic_phone.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\ic_phone.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_aaaaaaoooo_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\aaaaaaoooo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_aaaaaaoooo_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\aaaaaaoooo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_aaaaaaoooo_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\aaaaaaoooo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_aaaaaaoooo_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\aaaaaaoooo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_report_damage.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_report_damage.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\logo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_error_image.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_error_image.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-anydpi-v26_aaaaaaoooo.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-anydpi-v26\\aaaaaaoooo.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_placeholder_area.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\placeholder_area.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_medida.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_medida.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_img4.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\img4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_ic_phone.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\ic_phone.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_mis_reportes.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_mis_reportes.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_ic_phone_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\ic_phone_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_aaaaaaoooo.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\aaaaaaoooo.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_ic_phone.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\ic_phone.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_aaaaaaoooo.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\aaaaaaoooo.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_ic_phone_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\ic_phone_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_mapa.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_aaaaaa_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\aaaaaa_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_videos.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_videos.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_areas_protegidas.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_areas_protegidas.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_area_protegida.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_area_protegida.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-anydpi-v26_ic_phone.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-anydpi-v26\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_developer.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_developer.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_news_detail.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_logo_large.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_img2.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\img2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_aaaaaaoooo.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\aaaaaaoooo.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_ic_phone_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\ic_phone_foreground.webp"
+    },
+    {
+        "merged": "com.medioambiente.app-debug-38:/layout_activity_news_detail.xml.flat",
+        "source": "com.medioambiente.app-main-40:/layout/activity_news_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_placeholder_image.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_placeholder_image.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_acerca.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_acerca.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_equipo.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_equipo.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_ic_phone.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\ic_phone.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_maria.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\maria.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_aaaaaaoooo_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\aaaaaaoooo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_ic_phone_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\ic_phone_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_toolbar_layout.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_video.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_normativa.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_normativa.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_frank.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\frank.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_slider_image.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_slider_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_ic_phone_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\ic_phone_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-anydpi-v26_aaaaaaoooo_round.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-anydpi-v26\\aaaaaaoooo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_aaaaaaoooo_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\aaaaaaoooo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_area_detail.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_area_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_ic_phone.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\ic_phone.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_reporte.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_reporte.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_aaaaaaoooo_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\aaaaaaoooo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_aaaaaaoooo.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\aaaaaaoooo.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_report_details.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_report_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_miembro.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_miembro.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_item_service.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_logo_large.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-anydpi-v26_ic_phone_round.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-anydpi-v26\\ic_phone_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_telegram.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_telegram.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_logo_large.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_logo_large.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_ic_phone_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\ic_phone_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_medidas.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_medidas.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_aaaaaaoooo_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\aaaaaaoooo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_rounded_edittext_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\rounded_edittext_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-hdpi_ic_phone_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-hdpi\\ic_phone_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_img1.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_phone_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_phone_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_ic_phone_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\ic_phone_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_logo_large.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\logo_large.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_mapa_reportes.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_mapa_reportes.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_filter.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xhdpi_ic_phone_round.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xhdpi\\ic_phone_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_phone.png.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_miembro_detail.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_miembro_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_normativas.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_normativas.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxhdpi_aaaaaaoooo_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxhdpi\\aaaaaaoooo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_news.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-xxxhdpi_aaaaaaoooo.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-xxxhdpi\\aaaaaaoooo.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\drawable_img3.jpg.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\drawable\\img3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\mipmap-mdpi_aaaaaaoooo_foreground.webp.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\mipmap-mdpi\\aaaaaaoooo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-debug-38:\\layout_activity_voluntario.xml.flat",
+        "source": "C:\\Users\\frank\\.gradle\\daemon\\9.0-milestone-1\\com.medioambiente.app-main-40:\\layout\\activity_voluntario.xml"
+    }
+]

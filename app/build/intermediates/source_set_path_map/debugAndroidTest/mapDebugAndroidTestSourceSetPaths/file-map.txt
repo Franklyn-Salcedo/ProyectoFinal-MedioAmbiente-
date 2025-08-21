@@ -1,0 +1,6 @@
+com.medioambiente.test.app-annotation-experimental-1.3.0-0 C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\4d1a60d2ba1e0de508203164584ef306\transformed\annotation-experimental-1.3.0\res
+com.medioambiente.test.app-core-1.5.0-1 C:\Users\frank\.gradle\caches\9.0-milestone-1\transforms\d73735082c3af1f00ac1d6094428287a\transformed\core-1.5.0\res
+com.medioambiente.test.app-androidTest-2 C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\build\generated\res\resValues\androidTest\debug
+com.medioambiente.test.app-mergeDebugAndroidTestResources-3 C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.medioambiente.test.app-mergeDebugAndroidTestResources-4 C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.medioambiente.test.app-debugAndroidTest-5 C:\Users\frank\OneDrive\Escritorio\Proyecto_Medio_Ambiente\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
